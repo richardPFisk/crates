@@ -1,0 +1,5 @@
+{
+    "dl": "http://L2366:3000/api/v1/crates/{crate}/{version}/download",
+    "api": "http://L2366:3000",
+    "allowed-registries": ["https://github.com/rust-lang/crates.io-index"]
+}
