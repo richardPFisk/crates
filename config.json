@@ -1,1 +1,4 @@
-
+{
+  "dl": "http://localhost:3000/api/v1/crates",
+  "api": "http://localhost:3000"
+}
